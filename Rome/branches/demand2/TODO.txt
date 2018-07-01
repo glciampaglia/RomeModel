@@ -1,0 +1,3 @@
+1. Il salvataggio degli eventi deve essere completamente reimplementato!)
+2. In classification.m la funzione di hill sulla distanza è moltiplicata per 2 
+quando non dovrebbe essere così

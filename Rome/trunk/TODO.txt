@@ -1,0 +1,5 @@
+1. Nella cartella test ci vanno tutti file che eseguono grafici che servono per 
+   calibrare il modello.
+2. Bisogna modificare il modello stock / flow (i file sono updateMarket.m 
+   marginalCost.m demand.m) 
+3. Il salvataggio degli eventi deve essere completamente reimplementato!)
